@@ -1,0 +1,4 @@
+"ERROR:  syntax error at or near "create"
+LINE 5: create view p1_a as
+        ^
+"
